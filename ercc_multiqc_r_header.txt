@@ -1,0 +1,9 @@
+# id: 'ercc_r_squared'
+# section_name: 'ERCC R Squared'
+# description: "shows r-squared of linear regression on ERCC counts"
+# plot_type: 'bargraph'
+# anchor: 'ercc_r_squared'
+# pconfig:
+#     id: "ercc_r_squared_plot"
+#     title: "ERCC: R-Squared"
+#     xlab: "R-Squared"
