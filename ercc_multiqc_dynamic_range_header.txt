@@ -1,0 +1,9 @@
+# id: 'ercc_dynamic_range'
+# section_name: 'ERCC Dynamic Range'
+# description: "shows log 10 dynamic range of ERCC counts"
+# plot_type: 'bargraph'
+# anchor: 'ercc_dynamic_range'
+# pconfig:
+#     id: "ercc_dynamic_range_plot"
+#     title: "ERCC: Dynamic Range"
+#     xlab: "Log 10 Dynamic Range"
